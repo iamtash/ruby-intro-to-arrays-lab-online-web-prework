@@ -25,3 +25,7 @@ end
 def last_element_with_array_methods(a_neat_array)
   a_neat_array.pop
 end
+
+def length_of_array(a_long_array)
+  
+end
