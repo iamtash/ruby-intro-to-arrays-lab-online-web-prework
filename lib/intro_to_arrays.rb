@@ -27,5 +27,5 @@ def last_element_with_array_methods(a_neat_array)
 end
 
 def length_of_array(a_long_array)
-  
+  a_long_array.length
 end
