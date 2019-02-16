@@ -6,6 +6,6 @@ def array_with_two_elements
   fruits = ["orange", "apple"]
 end
 
-def first_element(fruits)
+def first_element(a_cool_array)
   fruits[0]
 end
