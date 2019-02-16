@@ -7,5 +7,5 @@ def array_with_two_elements
 end
 
 def first_element(a_cool_array)
-  fruits[0]
+  a_cool_array[0]
 end
