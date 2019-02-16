@@ -9,3 +9,7 @@ end
 def first_element(a_cool_array)
   a_cool_array[0]
 end
+
+def third_element(a_cool_array)
+  
+end
