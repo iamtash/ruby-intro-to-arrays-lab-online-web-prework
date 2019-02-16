@@ -13,3 +13,7 @@ end
 def third_element(a_cool_array)
   a_cool_array[2]
 end
+
+def last_element(a_cool_array)
+  a_cool_array[-1]
+end
