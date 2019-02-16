@@ -19,5 +19,11 @@ def last_element(a_cool_array)
 end
 
 def first_element_with_array_methods(a_neat_array)
+  a_neat_array.shift
+end
+
+def last_element_with_array_methods(a_neat_array)
   a_neat_array.pop
 end
+
+
