@@ -19,3 +19,4 @@ def last_element(a_cool_array)
 end
 
 def first_element_with_array_methods
+end
